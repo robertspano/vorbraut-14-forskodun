@@ -1,0 +1,4 @@
+# Forskoðunarvefur — á ekki að vera í leitarvélum.
+# Framleiðsluvefurinn er vorbraut14.is
+User-agent: *
+Disallow: /
